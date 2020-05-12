@@ -1,2 +1,2 @@
-# Planar-Gravity-Planet-Gravity
+# Planar Gravity / Planet Gravity
 https://youtu.be/GILmwVosAm4
